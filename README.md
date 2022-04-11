@@ -115,4 +115,3 @@ Most of my time I do iOS Development and contributions using Swift, over the yea
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
