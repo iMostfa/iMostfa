@@ -31,7 +31,7 @@ Most of my time I do iOS Development and contributions using Swift, over the yea
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on making the world a better place by contributing to the open source community.  
   
@@ -43,13 +43,6 @@ Most of my time I do iOS Development and contributions using Swift, over the yea
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
