@@ -1,22 +1,14 @@
 ## Hey 👋, I'm Mostfa Essam!  
   
 
-<a href="https://github.com/iMostfa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/m__tfa" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mostfa-essam-73345883" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mosatfae" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/5253913" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
+<!-- Icons: https://simpleicons.org/ -->
+
+<a href="https://www.apple.com/macos/sonoma/"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
+<a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
+<a href="https://www.swift.org"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
+<a href="https://www.youtube.com/watch?v=jUuqBZwwkQw"><img src="https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc" /></a>
+
 
 
 
